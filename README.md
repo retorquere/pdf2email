@@ -10,7 +10,6 @@ The following software is required so that this backend functions correctly:
 1.  Python 2.7 ([http://www.python.org](http://www.python.org/))
 2.  CUPS server ([http://www.cups.org/](http://www.cups.org/))
 3.  Ghostscript ([http://www.cs.wisc.edu/~ghost/](http://www.cs.wisc.edu/~ghost/))
-4.  Email server, on which usernames from the LAN workstations either match the users on the email server or proper mappings (aliases) have been set.
 4.  A mail-to-printer system like the crappy Canon systems our procurement department maintains is the best they could do.
 
 ## Installation
